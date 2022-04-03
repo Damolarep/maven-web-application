@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://54.147.57.146:8081/repository/dammy-release/</url>
+	      <url>http://54.173.176.73:8081/repository/fola-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.147.57.146:8081/repository/dammy-snapshot/</url>
+	      <url>http://54.173.176.73:8081/repository/fola-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
