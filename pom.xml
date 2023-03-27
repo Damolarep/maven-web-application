@@ -97,19 +97,19 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://18.206.120.24:8081/repository/texasrelease/</url>
+	      <url>http://54.146.233.93:8081/repository/paypal-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://18.206.120.24:8081/repository/texasnapshot/</url>
+	      <url>http://54.146.233.93:8081/repository/paypal-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
 	
 	<build>
-		<finalName>maven-web-app</finalName>
+		<finalName>paypal</finalName>
 		
 		<plugins>
 			<plugin>
