@@ -9,9 +9,9 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome damley global, Texas, USA Office.</h1>
+<h1 align="center">Welcome to damley global, Texas, USA Office.</h1>
 <h1 align="center">We are developing and supporting software solution to companies.
-	We offer  training for potential cloud security architect that wants to change the world.</h1>
+	We offer  training for potential cloud security architect and engineers that wants to change the world.</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
